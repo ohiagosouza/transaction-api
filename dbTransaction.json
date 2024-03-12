@@ -1,0 +1,56 @@
+{
+  "balance": 0,
+  "transactions": [
+    {
+      "id": "5678",
+      "description": "Pagamento de conta de luz",
+      "value": -120
+    },
+    {
+      "id": "9012",
+      "description": "Aluguel do apartamento",
+      "value": -1000
+    },
+    {
+      "id": "3456",
+      "description": "Recarga de celular",
+      "value": -25
+    },
+    {
+      "id": "7890",
+      "description": "Assinatura de serviço de streaming",
+      "value": -15.99
+    },
+    {
+      "id": "2345",
+      "description": "Compra de roupas",
+      "value": -150.5
+    },
+    {
+      "id": "6789",
+      "description": "Pagamento do cartão de crédito",
+      "value": -350
+    },
+    {
+      "id": "0123",
+      "description": "Jantar em restaurante",
+      "value": -85.3
+    },
+    {
+      "id": "4567",
+      "description": "Assinatura de revista",
+      "value": -25.99
+    },
+    {
+      "id": "8901",
+      "description": "Compra de ingressos para cinema",
+      "value": -40
+    },
+    {
+      "id": "ed71",
+      "description": "Salário",
+      "value": "10000",
+      "opType": "entrada"
+    }
+  ]
+}
